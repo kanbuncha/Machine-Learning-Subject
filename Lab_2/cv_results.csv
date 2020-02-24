@@ -1,0 +1,4 @@
+Parameter,Cost
+C,10
+gamma,0.5
+kernel,rbf
